@@ -1,0 +1,108 @@
+body{   
+    font-family: Verdana;
+    
+}
+
+header{
+    background-image: url(../images/cover.png);
+        background-repeat: no-repeat;
+        background-size: 1600px;
+        height: 200px;
+        color: rgb(0, 0, 0);
+        border: 10px solid black;
+        background-position: center;
+        
+    }
+
+nav{
+  
+    height: 30px;
+    border: 3px solid black;
+   text-align: center; 
+   background: grey;
+}
+
+section.products{
+    color: black;
+    padding: 10px;
+    border: 3px solid black;
+    background: grey;
+}
+section.mproducts{
+    color: black;
+    padding: 10px;
+    border: 3px solid black;
+    background: grey;
+}
+section.aboutus{
+    overflow: auto;
+    background: grey;
+    border: 3px solid black;
+}
+
+.bigimage {
+    float: right;
+    width: 10%;
+    border: 2px solid black;
+    margin:  -40px 0 12px;
+    border: 5px solid black;
+    
+    
+}
+
+ul {
+    list-style-type: circle;
+    
+    background: grey;
+    padding: 20px;
+    
+  
+  }
+  
+  ol {
+    background: grey;
+    padding: 20px;
+  }
+
+  
+
+section.table{
+    overflow: auto;
+    background: grey;
+    border: 5px solid black;
+}
+td {
+    text-align: center;
+      border: 1px solid black;
+  }
+  th {
+    text-align: center;
+      border: 3px solid black;
+  }
+  .col {
+    
+    column-count: 2;
+    column-rule: 3px solid black;
+    column-gap: 50px;
+    padding: 30px;
+    border: 5px solid black;
+    background: grey;
+}
+
+.map{
+    
+    border: 3px solid black;
+   text-align: center; 
+   background: grey;
+}
+
+footer{
+    border: 3px solid black;
+   text-align: center; 
+   background: grey;
+}
+.poll{
+    border: 3px solid black;
+   text-align: center; 
+   background: grey;
+}
